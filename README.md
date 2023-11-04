@@ -1,0 +1,2 @@
+# Python_self_Training
+感觉py是个很方便很值得学习的工具
